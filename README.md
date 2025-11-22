@@ -1,5 +1,5 @@
 
-# 📁 Personal Portfolio
+# Personal Portfolio
 
 Welcome to my personal portfolio! This project showcases my work, skills, and experience as a software developer. It serves as a central place where potential employers, collaborators, and peers can explore my projects and learn more about me.
 
